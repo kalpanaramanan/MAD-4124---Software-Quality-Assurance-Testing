@@ -6,6 +6,12 @@
 
 Software Testing is one of the SDLC life cycle process. 
 
+keys:
+* Unit Testing
+* UAT - User acceptance testing
+* Test Cases
+
+
 2. What is the diffrence between Mobile App testing and Web Testing ?
 
 2. What are the job requiremnets for softwware testing ?
